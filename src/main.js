@@ -42,7 +42,7 @@ makeNet = function (unparsed_phenotype) {
 
         assert(phenotype.format === "swirlnetPhenotype",
                 "swirlnet: internal error: invalid phenotype format: " + phenotype.format);
-        assert(phenotype.version === "0.0",
+        assert(phenotype.version === "0",
                 "swirlnet: internal error: invalid phenotype version: " + phenotype.version);
 
         assert(phenotype.roles !== undefined
