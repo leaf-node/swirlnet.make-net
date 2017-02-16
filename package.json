@@ -1,7 +1,9 @@
 {
   "name": "swirlnet.make-net",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate neural networks from swirlnet phenotypes",
+  "url": "https://gitlab.com/sudoman/swirlnet.make-net/issues",
+  "repository": "gitlab:sudoman/swirlnet.make-net",
   "main": "src/main.js",
   "files": [
       "src",
@@ -10,7 +12,7 @@
     ],
   "dependencies": {
       "swirlnet.util": "1.0.x",
-      "assert": "1.x"
+      "assert": "1.4.x"
   },
   "keywords": [
     "swirlnet",
