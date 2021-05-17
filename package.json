@@ -1,6 +1,6 @@
 {
   "name": "swirlnet.make-net",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate neural networks from swirlnet phenotypes",
   "url": "https://github.com/leaf-node/swirlnet.make-net/issues",
   "repository": "github:leaf-node/swirlnet.make-net",
